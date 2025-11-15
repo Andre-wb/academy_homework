@@ -148,7 +148,7 @@ input:hover, input:focus {
     gap: 10px;
     background: #317ad6;
     color: #fff;
-    border-radius: 0 5vw 5vw 0;
+    border-radius: 0 3vw 3vw 0;
     padding: 5px 5px 10px 5px;
 }
 .features-grid input {
