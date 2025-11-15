@@ -4,19 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fb8c12bd-1d31-49b0-a3f5-9f55f44e91ea" name="Changes" comment="css">
-      <change afterPath="$PROJECT_DIR$/.idea/learning.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/buy.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/img/mobile_check_150dp_1F1F1F_FILL0_wght400_GRAD0_opsz48.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/img/money_bag_150dp_1F1F1F_FILL0_wght400_GRAD0_opsz48.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/img/sell_150dp_1F1F1F_FILL0_wght400_GRAD0_opsz48.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/img/shield_150dp_1F1F1F_FILL0_wght400_GRAD0_opsz48.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="fb8c12bd-1d31-49b0-a3f5-9f55f44e91ea" name="Changes" comment="css" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,6 +21,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Andre-wb"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Andre-wb/academy_homework.git",
+    "accountId": "2c7e0c37-bc7b-4d07-b0ba-311a25e3bba4"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
@@ -140,7 +140,7 @@
       <workItem from="1762683400115" duration="13000" />
       <workItem from="1763157635266" duration="142000" />
       <workItem from="1763157786982" duration="2000" />
-      <workItem from="1763193454842" duration="3557000" />
+      <workItem from="1763193454842" duration="4018000" />
     </task>
     <task id="LOCAL-00001" summary="css">
       <option name="closed" value="true" />

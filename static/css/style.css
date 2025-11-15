@@ -158,6 +158,14 @@ input:hover, input:focus {
 .features-grid input::placeholder {
     color: #317ad6;
 }
+.order_button:hover {
+    color: #317ad6;
+    background: #fff;
+    transition: 0.3s;
+}
+.order_button:active {
+    scale: 0.9;
+}
 .order-form input {
     font-size: 20px;
     border: 3px solid #fff;
